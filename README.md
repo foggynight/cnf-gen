@@ -2,6 +2,9 @@
 
 CNF formula generator for SAT solvers.
 
+Created for educational purposes. Largely inspired by the CNFgen project by
+Massimo Lauria: <https://massimolauria.net/cnfgen/>.
+
 
 ## Build
 
